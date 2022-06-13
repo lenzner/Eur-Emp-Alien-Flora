@@ -1,6 +1,6 @@
 This repository contains the data and code to reproduce the analyses for the publication:
 
-Lenzner, B., Latombe, G., Schertler, A., Seebens, H., Qiang, Y., Winter, M., Weigelt, P., van Kleunen, M., Pysek, P., Pergl, J., Kreft, H., Dawson, W., Dullinger, S. & Essl, F., (in prep) Naturlaized alien floras still carry the legacy of European colonialism.
+Lenzner, B., Latombe, G., Schertler, A., Seebens, H., Qiang, Y., Winter, M., Weigelt, P., van Kleunen, M., Pysek, P., Pergl, J., Kreft, H., Dawson, W., Dullinger, S. & Essl, F., (in prep) Naturalized alien floras still carry the legacy of European colonialism.
 
 Upload date: 13.06.2022
 Code developed and provided by Bernd Lenzner
