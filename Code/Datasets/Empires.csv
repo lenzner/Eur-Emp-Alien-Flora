@@ -1,0 +1,869 @@
+OBJIDsic,Region_new,Region_unique,MainIsl,colonizer,from,to,UN_geospat
+17,Antartica_Chilena,CHL_Antartica_Chilena_17,MAIN,Spain,1541,1817,South_America
+19,Antofagasta_Province,CHL_Antofagasta_Province_19,MAIN,Spain,1541,1817,South_America
+32,,GBR_Ascension_32,ISL,Great_Britain,1815,1833,Mid_South_Africa
+40,Bangladesh,BGD_Bangladesh_40,MAIN,Portugal,1517,1651,Southern_Asia
+40,Bangladesh,BGD_Bangladesh_40,MAIN,Great_Britain,1652,1795,Southern_Asia
+40,Bangladesh,BGD_Bangladesh_40,MAIN,Great_Britain,1796,1947,Southern_Asia
+41,,DOM_Beata_41,ISL,Spain,1493,1839,Central_America_Carib
+59,,BRN_Brunei_59,ISL,Great_Britain,1888,1984,Southeast_Asia
+65,,PRI_Caja_de_Muertos_65,ISL,Spain,1493,1898,Central_America_Carib
+74,,PRI_Cayo_Santiago_74,ISL,Spain,1493,1898,Central_America_Carib
+83,Chacabuco,CHL_Chacabuco_83,MAIN,Spain,1541,1817,South_America
+91,,AUS_Cocos_Keeling_Islands_91,ISL,Netherlands,1753,1826,Southeast_Asia
+91,,AUS_Cocos_Keeling_Islands_91,ISL,Great_Britain,1753,1942,Southeast_Asia
+91,,AUS_Cocos_Keeling_Islands_91,ISL,Great_Britain,1942,1945,Southeast_Asia
+102,,PRT_Corvo_102,ISL,Portugal,1452,1976,Europe
+108,,PRI_Culebra_108,ISL,Spain,1493,1898,Central_America_Carib
+114,,PRI_Desecheo_114,ISL,Spain,1493,1898,Central_America_Carib
+122,,TLS_East_Timor_122,ISL,Portugal,1642,1975,Southeast_Asia
+129,Equatorial_Guinea,GNQ_Equatorial_Guinea_129,MAIN,Portugal,1778,1778,Mid_South_Africa
+129,Equatorial_Guinea,GNQ_Equatorial_Guinea_129,MAIN,Spain,1858,1968,Mid_South_Africa
+129,Equatorial_Guinea,GNQ_Equatorial_Guinea_129,MAIN,Great_Britain,1827,1857,Mid_South_Africa
+130,,ECU_Espanola_130,ISL,Great_Britain,1809,1832,South_America
+132,,PRT_Faial_132,ISL,Portugal,1560,1976,Europe
+138,,ECU_Fernandina_138,ISL,Great_Britain,1809,1832,South_America
+145,,ECU_Floreana_145,ISL,Great_Britain,1809,1832,South_America
+146,,PRT_Flores_146,ISL,Portugal,1475,1976,Europe
+151,,USA_French_Frigate_Shoals_151,ISL,Spain,1521,1898,Micronesia_Polynesia
+154,Gambia,GMB_Gambia_154,MAIN,Great_Britain,1852,1965,Western_Africa
+158,,ECU_Genovesa_158,ISL,Great_Britain,1809,1832,South_America
+160,,PRT_Graciosa_160,ISL,Portugal,1560,1976,Europe
+165,Guatemala,GTM_Guatemala_165,MAIN,Spain,1524,1821,Central_America_Carib
+182,,PRI_Icacos_182,ISL,Spain,1493,1898,Central_America_Carib
+192,,IDN_Kalimantan_192,ISL,Portugal,1512,1575,Southeast_Asia
+192,,IDN_Kalimantan_192,ISL,Netherlands,1621,1952,Southeast_Asia
+193,,IDN_Maluku_193,ISL,Portugal,1512,1575,Southeast_Asia
+193,,IDN_Maluku_193,ISL,Netherlands,1621,1952,Southeast_Asia
+194,,IDN_Nusa_Tenggara_194,ISL,Portugal,1512,1575,Southeast_Asia
+194,,IDN_Nusa_Tenggara_194,ISL,Netherlands,1621,1952,Southeast_Asia
+195,,IDN_Papua_195,ISL,Netherlands,1872,1962,Oceania
+196,,IDN_Sulawesi_196,ISL,Portugal,1512,1575,Southeast_Asia
+196,,IDN_Sulawesi_196,ISL,Netherlands,1621,1952,Southeast_Asia
+197,,IDN_Sumatra_197,ISL,Portugal,1512,1575,Southeast_Asia
+197,,IDN_Sumatra_197,ISL,Netherlands,1621,1952,Southeast_Asia
+199,Iraq,IRQ_Iraq_199,MAIN,Great_Britain,1917,1932,Western_Asia
+202,,ECU_Isabela_202,ISL,Great_Britain,1809,1832,South_America
+209,Jordan,JOR_Jordan_209,MAIN,Great_Britain,1923,1946,Western_Asia
+227,,NZL_Kermadec_Island_227,ISL,Great_Britain,1836,1914,Micronesia_Polynesia
+267,,PRI_Magueyes_267,ISL,Spain,1493,1898,Central_America_Carib
+284,Mexico_State,MEX_Mexico_State_284,MAIN,Spain,1521,1821,Central_America_Carib
+289,,PRI_Mona_289,ISL,Spain,1493,1898,Central_America_Carib
+291,,PRI_Monito_291,ISL,Spain,1493,1898,Central_America_Carib
+301,Myanmar,MMR_Myanmar_301,MAIN,Great_Britain,1879,1948,Southeast_Asia
+320,Central_Western_Slopes,AUS_Central_Western_Slopes_320,MAIN,Great_Britain,1788,1904,Oceania
+329,Oman,OMN_Oman_329,MAIN,Portugal,1507,1650,Western_Asia
+329,Oman,OMN_Oman_329,MAIN,Great_Britain,1798,1971,Western_Asia
+349,Pakistan,PAK_Pakistan_349,MAIN,Great_Britain,1830,1947,Southern_Asia
+353,,PNG_Papua_New_Guinea_353,ISL,Great_Britain,1793,1883,Oceania
+353,,PNG_Papua_New_Guinea_353,ISL,Great_Britain,1884,1912,Oceania
+354,Paraguay,PRY_Paraguay_354,MAIN,Spain,1537,1811,South_America
+359,,PRT_Pico_359,ISL,Portugal,1560,1976,Europe
+361,,ECU_Pinta_361,ISL,Great_Britain,1809,1832,South_America
+362,,ECU_Pinzon_362,ISL,Great_Britain,1809,1832,South_America
+373,,MUS_Rodrigues_373,ISL,Netherlands,1598,1638,East_Africa
+373,,MUS_Rodrigues_373,ISL,Great_Britain,1814,2002,East_Africa
+384,,WSM_Samoa_384,ISL,Great_Britain,1914,1920,Micronesia_Polynesia
+386,,ECU_San_Cristobal_386,ISL,Great_Britain,1809,1832,South_America
+396,,ECU_Santa_Cruz_396,ISL,Great_Britain,1809,1832,South_America
+397,,ECU_Santa_Fe_397,ISL,Great_Britain,1809,1832,South_America
+399,,PRT_Santa_Maria_399,ISL,Portugal,1439,1976,Europe
+403,,ECU_Santiago_403,ISL,Great_Britain,1809,1832,South_America
+405,,PRT_Sao_Jorge_405,ISL,Portugal,1427,1976,Europe
+406,,PRT_Sao_Miguel_406,ISL,Portugal,1444,1976,Europe
+419,,SLB_Solomon_Islands_419,ISL,Great_Britain,1893,1978,Oceania
+431,,USA_St_Croix_431,ISL,Great_Britain,1625,1650,Central_America_Carib
+431,,USA_St_Croix_431,ISL,Netherlands,1625,1649,Central_America_Carib
+431,,USA_St_Croix_431,ISL,Spain,1493,1660,Central_America_Carib
+431,,USA_St_Croix_431,ISL,Netherlands,1773,1917,Central_America_Carib
+431,,USA_St_Croix_431,ISL,Great_Britain,1801,1801,Central_America_Carib
+431,,USA_St_Croix_431,ISL,Great_Britain,1807,1815,Central_America_Carib
+432,,GBR_St_Helena_432,ISL,Portugal,1502,1651,Mid_South_Africa
+432,,GBR_St_Helena_432,ISL,Great_Britain,1651,1981,Mid_South_Africa
+433,,USA_St_John_433,ISL,Spain,1493,1671,Central_America_Carib
+433,,USA_St_John_433,ISL,Great_Britain,1684,1718,Central_America_Carib
+433,,USA_St_John_433,ISL,Netherlands,1717,1807,Central_America_Carib
+433,,USA_St_John_433,ISL,Great_Britain,1801,1802,Central_America_Carib
+433,,USA_St_John_433,ISL,Great_Britain,1807,1815,Central_America_Carib
+435,,USA_St_Thomas_435,ISL,Spain,1493,1625,Central_America_Carib
+435,,USA_St_Thomas_435,ISL,Netherlands,1814,1917,Central_America_Carib
+435,,USA_St_Thomas_435,ISL,Netherlands,1625,1807,Central_America_Carib
+435,,USA_St_Thomas_435,ISL,Great_Britain,1801,1802,Central_America_Carib
+435,,USA_St_Thomas_435,ISL,Great_Britain,1807,1815,Central_America_Carib
+453,,PRT_Terceira_453,ISL,Portugal,1450,1976,Europe
+469,,TUV_Tuvalu_469,ISL,Great_Britain,1892,1978,Micronesia_Polynesia
+471,United_Arab_Emirates,ARE_United_Arab_Emirates_471,MAIN,Great_Britain,1892,1971,Western_Asia
+481,,VUT_Vanuatu_481,ISL,Great_Britain,1906,1980,Oceania
+484,Victoria,AUS_Victoria_484,MAIN,Great_Britain,1834,1904,Oceania
+485,,USA_Vieques_485,ISL,Spain,1493,1689,Central_America_Carib
+485,,USA_Vieques_485,ISL,Spain,1693,1698,Central_America_Carib
+485,,USA_Vieques_485,ISL,Great_Britain,1698,1811,Central_America_Carib
+485,,USA_Vieques_485,ISL,Spain,1698,1811,Central_America_Carib
+485,,USA_Vieques_485,ISL,Spain,1811,1898,Central_America_Carib
+497,Western_Sahara,ESH_Western_Sahara_497,MAIN,Spain,1884,1975,North_Africa
+506,Belize,BLZ_Belize_506,MAIN,Spain,1524,1862,Central_America_Carib
+506,Belize,BLZ_Belize_506,MAIN,Great_Britain,1798,1980,Central_America_Carib
+508,,ABW_Aruba_508,ISL,Spain,1499,1636,South_America
+508,,ABW_Aruba_508,ISL,Netherlands,1636,1986,South_America
+508,,ABW_Aruba_508,ISL,Great_Britain,1799,1802,South_America
+508,,ABW_Aruba_508,ISL,Great_Britain,1804,1816,South_America
+509,Angola,AGO_Angola_509,MAIN,Portugal,1576,1974,Mid_South_Africa
+510,,GBR_Anguilla_510,ISL,Great_Britain,1650,1665,Central_America_Carib
+510,,GBR_Anguilla_510,ISL,Great_Britain,1667,1980,Central_America_Carib
+512,Buenos_Aires_Area,ARG_Buenos_Aires_Area_512,MAIN,Spain,1536,1818,South_America
+513,Catamarca,ARG_Catamarca_513,MAIN,Spain,1558,1818,South_America
+514,Chaco,ARG_Chaco_514,MAIN,Spain,1585,1818,South_America
+515,Chubut,ARG_Chubut_515,MAIN,Spain,1779,1818,South_America
+516,Cordoba,ARG_Cordoba_516,MAIN,Spain,1573,1818,South_America
+517,Corrientes,ARG_Corrientes_517,MAIN,Spain,1588,1818,South_America
+518,Buenos_Aires_City,ARG_Buenos_Aires_City_518,MAIN,Spain,1536,1818,South_America
+519,Entre_Rios,ARG_Entre_Rios_519,MAIN,Spain,1760,1818,South_America
+520,Formosa,ARG_Formosa_520,MAIN,Spain,1585,1818,South_America
+521,Jujuy,ARG_Jujuy_521,MAIN,Spain,1592,1818,South_America
+522,La_Pampa,ARG_La_Pampa_522,MAIN,Spain,1776,1818,South_America
+523,La_Rioja,ARG_La_Rioja_523,MAIN,Spain,1591,1818,South_America
+524,Mendoza,ARG_Mendoza_524,MAIN,Spain,1561,1818,South_America
+525,Misiones,ARG_Misiones_525,MAIN,Spain,1610,1818,South_America
+526,Neuquen,ARG_Neuquen_526,MAIN,Spain,1670,1818,South_America
+527,Rio_Negro,ARG_Rio_Negro_527,MAIN,Spain,1670,1818,South_America
+528,Salta,ARG_Salta_528,MAIN,Spain,1582,1818,South_America
+529,Santa_Cruz,ARG_Santa_Cruz_529,MAIN,Spain,1584,1818,South_America
+530,Santiago_del_Estero,ARG_Santiago_del_Estero_530,MAIN,Spain,1553,1818,South_America
+531,Santa_Fe,ARG_Santa_Fe_531,MAIN,Spain,1573,1818,South_America
+532,San_Juan,ARG_San_Juan_532,MAIN,Spain,1562,1818,South_America
+533,San_Luis,ARG_San_Luis_533,MAIN,Spain,1596,1818,South_America
+534,,ARG_Tierra_del_Fuego_ARG_534,ISL,Spain,1557,1818,South_America
+535,Tucuman,ARG_Tucuman_535,MAIN,Spain,1549,1818,South_America
+536,,USA_Aunuu_536,ISL,Great_Britain,1830,1834,Micronesia_Polynesia
+539,,USA_Swains_539,ISL,Great_Britain,1830,1834,Micronesia_Polynesia
+540,,USA_Tau_540,ISL,Great_Britain,1830,1834,Micronesia_Polynesia
+541,,USA_Tutuila_541,ISL,Great_Britain,1830,1834,Micronesia_Polynesia
+543,,GBR_Antigua_543,ISL,Great_Britain,1632,1974,Central_America_Carib
+544,,GBR_Barbuda_544,ISL,Great_Britain,1628,1974,Central_America_Carib
+545,,AUS_Alexander_Island_545,ISL,Great_Britain,1830,1904,Oceania
+546,,AUS_Ashmore_Reef_546,ISL,Great_Britain,1830,1904,Southeast_Asia
+547,,AUS_Beacon_Island_547,ISL,Great_Britain,1830,1904,Oceania
+549,,AUS_East_Wallabi_Island_549,ISL,Great_Britain,1830,1904,Oceania
+550,,AUS_Gilbert_Island_550,ISL,Great_Britain,1830,1904,Oceania
+551,,AUS_Gun_Island_551,ISL,Great_Britain,1830,1904,Oceania
+552,,AUS_Helms_Island_552,ISL,Great_Britain,1830,1904,Oceania
+553,,AUS_Hummock_Island_553,ISL,Great_Britain,1830,1904,Oceania
+554,,AUS_Leo_Island_554,ISL,Great_Britain,1830,1904,Oceania
+556,,AUS_Little_Rat_Island_556,ISL,Great_Britain,1830,1904,Oceania
+557,,AUS_Morley_Island_557,ISL,Great_Britain,1830,1904,Oceania
+558,,AUS_Middle_Island_558,ISL,Great_Britain,1830,1904,Oceania
+559,,AUS_Murray_Island_559,ISL,Great_Britain,1830,1904,Oceania
+560,,AUS_Newman_Island_560,ISL,Great_Britain,1830,1904,Oceania
+562,Central_Coast,AUS_Central_Coast_562,MAIN,Great_Britain,1788,1904,Oceania
+563,Central_Tablelands,AUS_Central_Tablelands_563,MAIN,Great_Britain,1788,1904,Oceania
+564,,AUS_Lord_Howe_Island_564,ISL,Great_Britain,1833,1901,Oceania
+565,North_Coast,AUS_North_Coast_565,MAIN,Great_Britain,1788,1904,Oceania
+566,North_Far_Western_Plains,AUS_North_Far_Western_Plains_566,MAIN,Great_Britain,1788,1904,Oceania
+567,Northern_Tablelands,AUS_Northern_Tablelands_567,MAIN,Great_Britain,1788,1904,Oceania
+568,North_Western_Plains,AUS_North_Western_Plains_568,MAIN,Great_Britain,1788,1904,Oceania
+569,North_Western_Slopes,AUS_North_Western_Slopes_569,MAIN,Great_Britain,1788,1904,Oceania
+570,South_Coast,AUS_South_Coast_570,MAIN,Great_Britain,1820,1904,Oceania
+571,South_Far_Western_Plains,AUS_South_Far_Western_Plains_571,MAIN,Great_Britain,1839,1904,Oceania
+572,Southern_Tablelands,AUS_Southern_Tablelands_572,MAIN,Great_Britain,1820,1904,Oceania
+573,South_Western_Plains,AUS_South_Western_Plains_573,MAIN,Great_Britain,1788,1904,Oceania
+574,South_Western_Slopes,AUS_South_Western_Slopes_574,MAIN,Great_Britain,1788,1904,Oceania
+575,Northern_Territory,AUS_Northern_Territory_575,MAIN,Great_Britain,1834,1904,Oceania
+576,,AUS_Pelsaert_Island_576,ISL,Great_Britain,1830,1904,Oceania
+577,,AUS_Pigeon_Island_577,ISL,Great_Britain,1830,1904,Oceania
+578,Burke,AUS_Burke_578,MAIN,Great_Britain,1825,1904,Oceania
+579,Burnett,AUS_Burnett_579,MAIN,Great_Britain,1825,1904,Oceania
+580,Cook,AUS_Cook_580,MAIN,Great_Britain,1825,1904,Oceania
+581,Darling_Downs,AUS_Darling_Downs_581,MAIN,Great_Britain,1836,1904,Oceania
+582,Gregory_North,AUS_Gregory_North_582,MAIN,Great_Britain,1825,1904,Oceania
+583,Gregory_South,AUS_Gregory_South_583,MAIN,Great_Britain,1825,1904,Oceania
+584,Leichhardt,AUS_Leichhardt_584,MAIN,Great_Britain,1850,1904,Oceania
+585,Maranoa,AUS_Maranoa_585,MAIN,Great_Britain,1848,1904,Oceania
+586,Mitchell,AUS_Mitchell_586,MAIN,Great_Britain,1887,1904,Oceania
+587,Moreton,AUS_Moreton_587,MAIN,Great_Britain,1824,1904,Oceania
+588,Kennedy_North,AUS_Kennedy_North_588,MAIN,Great_Britain,1825,1904,Oceania
+589,Port_Curtis,AUS_Port_Curtis_589,MAIN,Great_Britain,1823,1904,Oceania
+590,Kennedy_South,AUS_Kennedy_South_590,MAIN,Great_Britain,1825,1904,Oceania
+591,Warrego,AUS_Warrego_591,MAIN,Great_Britain,1825,1904,Oceania
+592,Wide_Bay,AUS_Wide_Bay_592,MAIN,Great_Britain,1847,1904,Oceania
+593,,AUS_Rat_Island_593,ISL,Great_Britain,1830,1904,Oceania
+594,SA_EA,AUS_SA_EA_594,MAIN,Great_Britain,1836,1904,Oceania
+595,Eyre_Peninsula,AUS_Eyre_Peninsula_595,MAIN,Great_Britain,1839,1904,Oceania
+596,Flinders_Ranges,AUS_Flinders_Ranges_596,MAIN,Great_Britain,1845,1904,Oceania
+597,Gairdner_Torrens_Basin,AUS_Gairdner_Torrens_Basin_597,MAIN,Great_Britain,1836,1904,Oceania
+598,,AUS_Kangaroo_Island_598,ISL,Great_Britain,1836,1904,Oceania
+599,Eyre_Basin,AUS_Eyre_Basin_599,MAIN,Great_Britain,1836,1904,Oceania
+600,Murray_Basin,AUS_Murray_Basin_600,MAIN,Great_Britain,1840,1904,Oceania
+601,Lofty_North,AUS_Lofty_North_601,MAIN,Great_Britain,1836,1904,Oceania
+603,North_West,AUS_North_West_603,MAIN,Great_Britain,1836,1904,Oceania
+604,South_East,AUS_South_East_604,MAIN,Great_Britain,1860,1904,Oceania
+605,Lofty_South,AUS_Lofty_South_605,MAIN,Great_Britain,1836,1904,Oceania
+606,Yorke_Peninsula,AUS_Yorke_Peninsula_606,MAIN,Great_Britain,1840,1904,Oceania
+607,,AUS_Serventy_Island_607,ISL,Great_Britain,1830,1904,Oceania
+608,,AUS_Seagull_Island_608,ISL,Great_Britain,1830,1904,Oceania
+609,,AUS_Suomi_Island_609,ISL,Great_Britain,1830,1904,Oceania
+610,,AUS_Tasmania_610,ISL,Great_Britain,1803,1904,Oceania
+611,,AUS_Macquarie_Island_611,ISL,Great_Britain,1810,1901,Oceania
+612,,AUS_Uncle_Margie_Island_612,ISL,Great_Britain,1830,1904,Oceania
+613,Avon_Wheatbelt,AUS_Avon_Wheatbelt_613,MAIN,Great_Britain,1830,1904,Oceania
+614,Carnarvon,AUS_Carnarvon_614,MAIN,Great_Britain,1883,1904,Oceania
+615,Central_Kimberley,AUS_Central_Kimberley_615,MAIN,Great_Britain,1879,1904,Oceania
+616,Coolgardie,AUS_Coolgardie_616,MAIN,Great_Britain,1892,1904,Oceania
+617,Central_Ranges,AUS_Central_Ranges_617,MAIN,Great_Britain,1830,1904,Oceania
+618,Dampierland,AUS_Dampierland_618,MAIN,Great_Britain,1879,1904,Oceania
+619,Esperance_Plains,AUS_Esperance_Plains_619,MAIN,Great_Britain,1830,1904,Oceania
+620,Gascoyne,AUS_Gascoyne_620,MAIN,Great_Britain,1830,1904,Oceania
+622,Gread_Sandy_Desert,AUS_Gread_Sandy_Desert_622,MAIN,Great_Britain,1830,1904,Oceania
+623,Geraldton_Sandplains,AUS_Geraldton_Sandplains_623,MAIN,Great_Britain,1830,1904,Oceania
+624,Great_Victoria_Desert,AUS_Great_Victoria_Desert_624,MAIN,Great_Britain,1830,1904,Oceania
+625,Hampton,AUS_Hampton_625,MAIN,Great_Britain,1876,1904,Oceania
+626,Jarrah_Forest,AUS_Jarrah_Forest_626,MAIN,Great_Britain,1826,1904,Oceania
+628,Mallee,AUS_Mallee_628,MAIN,Great_Britain,1849,1904,Oceania
+629,Murchison,AUS_Murchison_629,MAIN,Great_Britain,1864,1904,Oceania
+630,Northern_Kimberley,AUS_Northern_Kimberley_630,MAIN,Great_Britain,1864,1904,Oceania
+632,Ord_Victoria_Plains,AUS_Ord_Victoria_Plains_632,MAIN,Great_Britain,1830,1904,Oceania
+633,Pilbara,AUS_Pilbara_633,MAIN,Great_Britain,1863,1904,Oceania
+634,Swan_Coastal_Plain,AUS_Swan_Coastal_Plain_634,MAIN,Great_Britain,1829,1904,Oceania
+635,Tanami,AUS_Tanami_635,MAIN,Great_Britain,1830,1904,Oceania
+636,Victoria_Bonaparte,AUS_Victoria_Bonaparte_636,MAIN,Great_Britain,1886,1904,Oceania
+637,Warren,AUS_Warren_637,MAIN,Great_Britain,1827,1904,Oceania
+638,Yalgoo,AUS_Yalgoo_638,MAIN,Great_Britain,1892,1904,Oceania
+639,,AUS_White_Island_639,ISL,Great_Britain,1830,1904,Oceania
+640,,AUS_Wooded_Island_640,ISL,Great_Britain,1830,1904,Oceania
+641,,AUS_West_Wallabi_Island_641,ISL,Great_Britain,1830,1904,Oceania
+645,Benin,BEN_Benin_645,MAIN,Portugal,1485,1960,Western_Africa
+646,,NLD_Bonaire_646,ISL,Great_Britain,1807,1816,South_America
+646,,NLD_Bonaire_646,ISL,Great_Britain,1800,1803,South_America
+646,,NLD_Bonaire_646,ISL,Netherlands,1816,2010,South_America
+646,,NLD_Bonaire_646,ISL,Netherlands,1803,1807,South_America
+646,,NLD_Bonaire_646,ISL,Netherlands,1636,1800,South_America
+646,,NLD_Bonaire_646,ISL,Spain,1526,1636,South_America
+647,,NLD_St_Eustatius_647,ISL,Netherlands,1636,1672,Central_America_Carib
+647,,NLD_St_Eustatius_647,ISL,Great_Britain,1672,1679,Central_America_Carib
+647,,NLD_St_Eustatius_647,ISL,Netherlands,1679,1689,Central_America_Carib
+647,,NLD_St_Eustatius_647,ISL,Great_Britain,1690,1696,Central_America_Carib
+647,,NLD_St_Eustatius_647,ISL,Netherlands,1696,1781,Central_America_Carib
+647,,NLD_St_Eustatius_647,ISL,Great_Britain,1781,1781,Central_America_Carib
+647,,NLD_St_Eustatius_647,ISL,Netherlands,1784,1801,Central_America_Carib
+647,,NLD_St_Eustatius_647,ISL,Great_Britain,1801,1802,Central_America_Carib
+647,,NLD_St_Eustatius_647,ISL,Netherlands,1802,1810,Central_America_Carib
+647,,NLD_St_Eustatius_647,ISL,Great_Britain,1810,1816,Central_America_Carib
+647,,NLD_St_Eustatius_647,ISL,Netherlands,1816,2017,Central_America_Carib
+648,,NLD_Saba_648,ISL,Netherlands,1635,1665,Central_America_Carib
+648,,NLD_Saba_648,ISL,Great_Britain,1665,1665,Central_America_Carib
+648,,NLD_Saba_648,ISL,Netherlands,1665,1672,Central_America_Carib
+648,,NLD_Saba_648,ISL,Great_Britain,1672,1679,Central_America_Carib
+648,,NLD_Saba_648,ISL,Netherlands,1679,1781,Central_America_Carib
+648,,NLD_Saba_648,ISL,Great_Britain,1781,1781,Central_America_Carib
+648,,NLD_Saba_648,ISL,Great_Britain,1801,1803,Central_America_Carib
+648,,NLD_Saba_648,ISL,Netherlands,1803,1810,Central_America_Carib
+648,,NLD_Saba_648,ISL,Great_Britain,1810,1816,Central_America_Carib
+648,,NLD_Saba_648,ISL,Netherlands,1816,2017,Central_America_Carib
+651,,BHS_Bahamas_651,ISL,Great_Britain,1738,1973,Central_America_Carib
+661,,GBR_Bermuda_661,ISL,Great_Britain,1612,1946,Mid_North_America
+663,Acre,BRA_Acre_663,MAIN,Spain,1542,1824,South_America
+664,Alagoas,BRA_Alagoas_664,MAIN,Portugal,1570,1630,South_America
+664,Alagoas,BRA_Alagoas_664,MAIN,Netherlands,1630,1654,South_America
+664,Alagoas,BRA_Alagoas_664,MAIN,Portugal,1648,1822,South_America
+666,Amapa,BRA_Amapa_666,MAIN,Portugal,1637,1822,South_America
+667,Bahia,BRA_Bahia_667,MAIN,Portugal,1549,1822,South_America
+668,Ceara,BRA_Ceara_668,MAIN,Portugal,1635,1822,South_America
+668,Ceara,BRA_Ceara_668,MAIN,Netherlands,1630,1654,South_America
+669,Distrito_Federal,BRA_Distrito_Federal_669,MAIN,Portugal,1682,1822,South_America
+670,Espirito_Santo,BRA_Espirito_Santo_670,MAIN,Portugal,1535,1822,South_America
+671,,BRA_Trindade_and_Martin_Vaz_671,ISL,Portugal,1502,1825,South_America
+671,,BRA_Trindade_and_Martin_Vaz_671,ISL,Great_Britain,1890,1896,South_America
+672,Goias,BRA_Goias_672,MAIN,Portugal,1682,1822,South_America
+673,Maranhao,BRA_Maranhao_673,MAIN,Portugal,1615,1641,South_America
+673,Maranhao,BRA_Maranhao_673,MAIN,Netherlands,1641,1654,South_America
+674,Minas_Gerais,BRA_Minas_Gerais_674,MAIN,Portugal,1690,1822,South_America
+675,Mato_Grosso_do_Sul,BRA_Mato_Grosso_do_Sul_675,MAIN,Portugal,1533,1822,South_America
+676,Mato_Grosso,BRA_Mato_Grosso_676,MAIN,Portugal,1533,1822,South_America
+677,Para,BRA_Para_677,MAIN,Portugal,1616,1822,South_America
+678,Paraiba,BRA_Paraiba_678,MAIN,Portugal,1535,1822,South_America
+678,Paraiba,BRA_Paraiba_678,MAIN,Netherlands,1630,1654,South_America
+679,Pernambuco,BRA_Pernambuco_679,MAIN,Netherlands,1630,1654,South_America
+679,Pernambuco,BRA_Pernambuco_679,MAIN,Portugal,1516,1822,South_America
+680,Piaui,BRA_Piaui_680,MAIN,Portugal,1533,1822,South_America
+681,Parana,BRA_Parana_681,MAIN,Portugal,1533,1822,South_America
+683,Rio_Grande_do_Norte,BRA_Rio_Grande_do_Norte_683,MAIN,Portugal,1535,1822,South_America
+683,Rio_Grande_do_Norte,BRA_Rio_Grande_do_Norte_683,MAIN,Netherlands,1630,1654,South_America
+684,Rondonia,BRA_Rondonia_684,MAIN,Portugal,1533,1822,South_America
+685,Roraima,BRA_Roraima_685,MAIN,Spain,1771,1775,South_America
+686,Rio_Grande_do_Sul,BRA_Rio_Grande_do_Sul_686,MAIN,Spain,1635,1756,South_America
+687,Santa_Catarina,BRA_Santa_Catarina_687,MAIN,Spain,1542,1675,South_America
+688,Sergipe,BRA_Sergipe_688,MAIN,Portugal,1591,1641,South_America
+688,Sergipe,BRA_Sergipe_688,MAIN,Netherlands,1641,1645,South_America
+689,Sao_Paulo,BRA_Sao_Paulo_689,MAIN,Portugal,1532,1822,South_America
+690,Tocatins,BRA_Tocatins_690,MAIN,Portugal,1730,1822,South_America
+691,,BRB_Barbados_691,ISL,Portugal,1536,1625,Central_America_Carib
+691,,BRB_Barbados_691,ISL,Great_Britain,1627,1966,Central_America_Carib
+692,Botswana,BWA_Botswana_692,MAIN,Great_Britain,1887,1966,Mid_South_Africa
+694,Alberta,CAN_Alberta_694,MAIN,Great_Britain,1670,1877,Northern_North_America
+695,British_Columbia,CAN_British_Columbia_695,MAIN,Great_Britain,1791,1877,Northern_North_America
+696,Labrador,CAN_Labrador_696,MAIN,Great_Britain,1763,1877,Northern_North_America
+697,Manitoba,CAN_Manitoba_697,MAIN,Great_Britain,1668,1741,Northern_North_America
+697,Manitoba,CAN_Manitoba_697,MAIN,Great_Britain,1763,1877,Northern_North_America
+698,New_Brunswick,CAN_New_Brunswick_698,MAIN,Great_Britain,1763,1877,Northern_North_America
+699,,CAN_Newfoundland_699,ISL,Great_Britain,1610,1933,Northern_North_America
+700,Nova_Scotia,CAN_Nova_Scotia_700,MAIN,Portugal,1521,1605,Northern_North_America
+700,Nova_Scotia,CAN_Nova_Scotia_700,MAIN,Great_Britain,1710,1877,Northern_North_America
+703,Ontario,CAN_Ontario_703,MAIN,Great_Britain,1763,1877,Northern_North_America
+704,,CAN_Prince_Edward_Island_704,ISL,Great_Britain,1745,1748,Northern_North_America
+704,,CAN_Prince_Edward_Island_704,ISL,Great_Britain,1758,1877,Northern_North_America
+705,Quebec,CAN_Quebec_705,MAIN,Great_Britain,1763,1877,Northern_North_America
+708,Yukon,CAN_Yukon_708,MAIN,Great_Britain,1845,1877,Northern_North_America
+709,,AUS_Cocos_North_Keeling_Island_709,ISL,Netherlands,1753,1826,Southeast_Asia
+709,,AUS_Cocos_North_Keeling_Island_709,ISL,Great_Britain,1753,1942,Southeast_Asia
+709,,AUS_Cocos_North_Keeling_Island_709,ISL,Great_Britain,1942,1945,Southeast_Asia
+712,Aisen,CHL_Aisen_712,MAIN,Spain,1541,1817,South_America
+714,Arica,CHL_Arica_714,MAIN,Spain,1541,1817,South_America
+716,Arauco,CHL_Arauco_716,MAIN,Spain,1552,1817,South_America
+717,Biobio,CHL_Biobio_717,MAIN,Spain,1552,1817,South_America
+718,Cachapoal,CHL_Cachapoal_718,MAIN,Spain,1541,1817,South_America
+720,Cardenal_Caro,CHL_Cardenal_Caro_720,MAIN,Spain,1544,1817,South_America
+721,Cordillera,CHL_Cordillera_721,MAIN,Spain,1541,1817,South_America
+722,Chiloe,CHL_Chiloe_722,MAIN,Spain,1567,1817,South_America
+723,Choapa,CHL_Choapa_723,MAIN,Spain,1541,1817,South_America
+724,Coihaique,CHL_Coihaique_724,MAIN,Spain,1541,1817,South_America
+725,Colchagua,CHL_Colchagua_725,MAIN,Spain,1541,1817,South_America
+726,Concepcion,CHL_Concepcion_726,MAIN,Spain,1551,1817,South_America
+727,Copiapo,CHL_Copiapo_727,MAIN,Spain,1541,1817,South_America
+728,Capitan_Prat,CHL_Capitan_Prat_728,MAIN,Spain,1541,1817,South_America
+729,Cauquenes,CHL_Cauquenes_729,MAIN,Spain,1541,1817,South_America
+730,Cautin,CHL_Cautin_730,MAIN,Spain,1552,1817,South_America
+731,Curico,CHL_Curico_731,MAIN,Spain,1541,1817,South_America
+732,El_Loa,CHL_El_Loa_732,MAIN,Spain,1541,1817,South_America
+733,Elqui,CHL_Elqui_733,MAIN,Spain,1544,1817,South_America
+734,General_Carrera,CHL_General_Carrera_734,MAIN,Spain,1541,1817,South_America
+735,Huasco,CHL_Huasco_735,MAIN,Spain,1541,1817,South_America
+736,Iquique,CHL_Iquique_736,MAIN,Spain,1541,1817,South_America
+737,Los_Andes,CHL_Los_Andes_737,MAIN,Spain,1541,1817,South_America
+738,Llanquihue,CHL_Llanquihue_738,MAIN,Spain,1541,1817,South_America
+739,Limari,CHL_Limari_739,MAIN,Spain,1541,1817,South_America
+740,Linares,CHL_Linares_740,MAIN,Spain,1541,1817,South_America
+741,Melipilla,CHL_Melipilla_741,MAIN,Spain,1541,1817,South_America
+742,Magallanes,CHL_Magallanes_742,MAIN,Spain,1584,1817,South_America
+743,Maipo,CHL_Maipo_743,MAIN,Spain,1541,1817,South_America
+744,Malleco,CHL_Malleco_744,MAIN,Spain,1553,1817,South_America
+745,Nuble,CHL_Nuble_745,MAIN,Spain,1580,1817,South_America
+746,Osorno,CHL_Osorno_746,MAIN,Spain,1558,1817,South_America
+747,Petorca,CHL_Petorca_747,MAIN,Spain,1541,1817,South_America
+748,Palena,CHL_Palena_748,MAIN,Spain,1541,1817,South_America
+749,Parinacota,CHL_Parinacota_749,MAIN,Spain,1541,1817,South_America
+750,Quillota,CHL_Quillota_750,MAIN,Spain,1541,1817,South_America
+751,,CHL_Robinso_Crusoe_Island_751,ISL,Spain,1574,1818,South_America
+752,San_Antonio,CHL_San_Antonio_752,MAIN,Spain,1541,1817,South_America
+754,San_Felipe_de_Aconcagua,CHL_San_Felipe_de_Aconcagua_754,MAIN,Spain,1541,1817,South_America
+755,Santiago,CHL_Santiago_755,MAIN,Spain,1541,1817,South_America
+756,Talca,CHL_Talca_756,MAIN,Spain,1541,1817,South_America
+757,Talagante,CHL_Talagante_757,MAIN,Spain,1541,1817,South_America
+758,,CHL_Tierra_del_Fuego_CHL_758,ISL,Spain,1557,1818,South_America
+759,Tocopilla,CHL_Tocopilla_759,MAIN,Spain,1541,1817,South_America
+760,Ultima_Esperanza,CHL_Ultima_Esperanza_760,MAIN,Spain,1541,1817,South_America
+761,Valdivia,CHL_Valdivia_761,MAIN,Spain,1552,1817,South_America
+762,Valparaiso,CHL_Valparaiso_762,MAIN,Spain,1541,1817,South_America
+764,Tianjing,CHN_Tianjing_764,MAIN,Great_Britain,1860,1943,East_Asia
+767,Liaoning,CHN_Liaoning_767,MAIN,Great_Britain,1858,1860,East_Asia
+770,Shanghai,CHN_Shanghai_770,MAIN,Great_Britain,1846,1945,East_Asia
+771,Jiangsu,CHN_Jiangsu_771,MAIN,Great_Britain,1861,1929,East_Asia
+772,Zhejiang,CHN_Zhejiang_772,MAIN,Portugal,1533,1545,East_Asia
+772,Zhejiang,CHN_Zhejiang_772,MAIN,Great_Britain,1842,1843,East_Asia
+774,Fujian,CHN_Fujian_774,MAIN,Great_Britain,1852,1930,East_Asia
+775,Jiangxi,CHN_Jiangxi_775,MAIN,Great_Britain,1861,1927,East_Asia
+776,Shandong,CHN_Shandong_776,MAIN,Great_Britain,1898,1940,East_Asia
+778,Hubei,CHN_Hubei_778,MAIN,Great_Britain,1861,1927,East_Asia
+780,Guangdong,CHN_Guangdong_780,MAIN,Great_Britain,1861,1945,East_Asia
+792,HongKong,CHN_HongKong_792,MAIN,Great_Britain,1841,1997,East_Asia
+793,Macau,CHN_Macau_793,MAIN,Portugal,1557,1999,East_Asia
+797,Cameroon,CMR_Cameroon_797,MAIN,Great_Britain,1922,1961,Mid_South_Africa
+800,,COK_Aitutaki_800,ISL,Great_Britain,1821,1900,Micronesia_Polynesia
+801,,COK_Atiu_801,ISL,Great_Britain,1821,1900,Micronesia_Polynesia
+802,,COK_Mangaia_802,ISL,Great_Britain,1821,1900,Micronesia_Polynesia
+803,,COK_Mauke_803,ISL,Great_Britain,1821,1900,Micronesia_Polynesia
+804,,COK_Manuae_804,ISL,Great_Britain,1821,1900,Micronesia_Polynesia
+805,,COK_Manihiki_805,ISL,Great_Britain,1821,1900,Micronesia_Polynesia
+806,,COK_Mitiaro_806,ISL,Great_Britain,1823,1900,Micronesia_Polynesia
+807,,COK_Nassau_807,ISL,Great_Britain,1821,1900,Micronesia_Polynesia
+808,,COK_Palmerston_808,ISL,Great_Britain,1821,1900,Micronesia_Polynesia
+809,,COK_Penrhyn_Tongareva_809,ISL,Great_Britain,1821,1900,Micronesia_Polynesia
+810,,COK_Pukapuka_Cook_810,ISL,Great_Britain,1821,1900,Micronesia_Polynesia
+811,,COK_Rarotonga_811,ISL,Great_Britain,1821,1900,Micronesia_Polynesia
+812,,COK_Rakahanga_812,ISL,Great_Britain,1855,1900,Micronesia_Polynesia
+813,,COK_Suwarrow_813,ISL,Great_Britain,1821,1900,Micronesia_Polynesia
+814,,COK_Takutea_814,ISL,Great_Britain,1821,1900,Micronesia_Polynesia
+817,,CPV_Cape_Verde_817,ISL,Portugal,1462,1975,Western_Africa
+818,Costa_Rica,CRI_Costa_Rica_818,MAIN,Spain,1516,1821,Central_America_Carib
+819,,CUB_Cuba_819,ISL,Spain,1511,1898,Central_America_Carib
+819,,CUB_Cuba_819,ISL,Great_Britain,1762,1763,Central_America_Carib
+820,,CUW_Curacao_820,ISL,Netherlands,1634,1795,South_America
+820,,CUW_Curacao_820,ISL,Great_Britain,1800,1802,South_America
+820,,CUW_Curacao_820,ISL,Netherlands,1802,1807,South_America
+820,,CUW_Curacao_820,ISL,Great_Britain,1807,1816,South_America
+820,,CUW_Curacao_820,ISL,Netherlands,1816,2010,South_America
+821,,AUS_Christmas_Island_821,ISL,Great_Britain,1888,1958,Southeast_Asia
+822,,GBR_Cayman_Islands_822,ISL,Great_Britain,1661,1962,Central_America_Carib
+823,,CYP_Cyprus_823,ISL,Great_Britain,1887,1960,Western_Asia
+827,,DMA_Dominica_827,ISL,Great_Britain,1805,1972,Central_America_Carib
+829,,DOM_Dominican_Republic_829,ISL,Spain,1493,1839,Central_America_Carib
+833,Egypt,EGY_Egypt_833,MAIN,Great_Britain,1882,1926,North_Africa
+834,Eritrea,ERI_Eritrea_834,MAIN,Great_Britain,1941,1951,East_Africa
+836,,ESP_Balearics_836,ISL,Great_Britain,1708,1802,Europe
+836,,ESP_Balearics_836,ISL,Spain,1229,1983,Europe
+841,,FJI_Aiwa_841,ISL,Great_Britain,1872,1970,Micronesia_Polynesia
+842,,FJI_Lakeba_842,ISL,Great_Britain,1872,1970,Micronesia_Polynesia
+843,,FJI_Nasoata_843,ISL,Great_Britain,1872,1970,Oceania
+844,,FJI_Nayau_844,ISL,Great_Britain,1872,1970,Micronesia_Polynesia
+845,,FJI_Rotuma_845,ISL,Great_Britain,1872,1970,Oceania
+849,,FRA_Corsica_849,ISL,Great_Britain,1794,1796,Europe
+853,,GBR_Diego_Garcia_853,ISL,Great_Britain,1920,1965,Southern_Asia
+859,Ghana,GHA_Ghana_859,MAIN,Portugal,1476,1823,Western_Africa
+859,Ghana,GHA_Ghana_859,MAIN,Great_Britain,1874,1957,Western_Africa
+861,,GLP_Maria_Galante_861,ISL,Great_Britain,1759,1763,Central_America_Carib
+861,,GLP_Maria_Galante_861,ISL,Great_Britain,1810,1813,Central_America_Carib
+862,East,GNB_East_862,MAIN,Portugal,1879,1973,Western_Africa
+863,North,GNB_North_863,MAIN,Portugal,1446,1973,Western_Africa
+864,South,GNB_South_864,MAIN,Portugal,1879,1973,Western_Africa
+866,,GRD_Grenada_866,ISL,Great_Britain,1762,1970,Central_America_Carib
+868,French_Guiana,GUF_French_Guiana_868,MAIN,Portugal,1809,1814,South_America
+868,French_Guiana,GUF_French_Guiana_868,MAIN,Netherlands,1658,1676,South_America
+868,French_Guiana,GUF_French_Guiana_868,MAIN,Great_Britain,1814,1966,South_America
+868,French_Guiana,GUF_French_Guiana_868,MAIN,Portugal,1809,1817,South_America
+869,,USA_Guam_869,ISL,Spain,1598,1898,Micronesia_Polynesia
+870,Guyana,GUY_Guyana_870,MAIN,Netherlands,1580,1815,South_America
+870,Guyana,GUY_Guyana_870,MAIN,Great_Britain,1814,1966,South_America
+879,,IND_Andaman_and_Nicobar_879,ISL,Great_Britain,1789,1940,Southeast_Asia
+879,,IND_Andaman_and_Nicobar_879,ISL,Great_Britain,1868,1947,Southeast_Asia
+880,Andhra_Pradesh,IND_Andhra_Pradesh_880,MAIN,Portugal,1598,1610,Southern_Asia
+880,Andhra_Pradesh,IND_Andhra_Pradesh_880,MAIN,Netherlands,1606,1781,Southern_Asia
+881,Aruchanal_Pradesh,IND_Aruchanal_Pradesh_881,MAIN,Great_Britain,1914,1947,Southern_Asia
+882,Assam,IND_Assam_882,MAIN,Great_Britain,1825,1947,Southern_Asia
+883,Bihar,IND_Bihar_883,MAIN,Great_Britain,1765,1947,Southern_Asia
+884,Chandigarh,IND_Chandigarh_884,MAIN,Great_Britain,1849,1947,Southern_Asia
+885,Chhattisgarh,IND_Chhattisgarh_885,MAIN,Great_Britain,1853,1947,Southern_Asia
+886,Delhi,IND_Delhi_886,MAIN,Great_Britain,1803,1947,Southern_Asia
+887,Goa,IND_Goa_887,MAIN,Portugal,1510,1961,Southern_Asia
+888,Gujarat,IND_Gujarat_888,MAIN,Portugal,1535,1961,Southern_Asia
+888,Gujarat,IND_Gujarat_888,MAIN,Great_Britain,1609,1947,Southern_Asia
+888,Gujarat,IND_Gujarat_888,MAIN,Netherlands,1616,1795,Southern_Asia
+888,Gujarat,IND_Gujarat_888,MAIN,Netherlands,1814,1825,Southern_Asia
+889,Haryana,IND_Haryana_889,MAIN,Great_Britain,1849,1947,Southern_Asia
+890,Himachal_Pradesh,IND_Himachal_Pradesh_890,MAIN,Great_Britain,1849,1947,Southern_Asia
+891,Jammu_and_Kashmir,IND_Jammu_and_Kashmir_891,MAIN,Great_Britain,1846,1947,Southern_Asia
+892,Jharkhand,IND_Jharkhand_892,MAIN,Great_Britain,1765,1947,Southern_Asia
+893,Karnataka,IND_Karnataka_893,MAIN,Portugal,1568,1763,Southern_Asia
+893,Karnataka,IND_Karnataka_893,MAIN,Great_Britain,1792,1947,Southern_Asia
+894,Kerala,IND_Kerala_894,MAIN,Portugal,1498,1661,Southern_Asia
+894,Kerala,IND_Kerala_894,MAIN,Netherlands,1661,1795,Southern_Asia
+894,Kerala,IND_Kerala_894,MAIN,Great_Britain,1795,1947,Southern_Asia
+895,,IND_Lakshadweep_895,ISL,Great_Britain,1799,1947,Southern_Asia
+896,Maharashtra,IND_Maharashtra_896,MAIN,Portugal,1521,1740,Southern_Asia
+896,Maharashtra,IND_Maharashtra_896,MAIN,Great_Britain,1638,1947,Southern_Asia
+897,Manipur,IND_Manipur_897,MAIN,Great_Britain,1824,1947,Southern_Asia
+898,Madhya_Pradesh,IND_Madhya_Pradesh_898,MAIN,Great_Britain,1818,1947,Southern_Asia
+899,Meghalaya,IND_Meghalaya_899,MAIN,Great_Britain,1835,1947,Southern_Asia
+900,Mizoram,IND_Mizoram_900,MAIN,Great_Britain,1895,1947,Southern_Asia
+901,Nagaland,IND_Nagaland_901,MAIN,Great_Britain,1866,1947,Southern_Asia
+902,Odisha_Orissa,IND_Odisha_Orissa_902,MAIN,Great_Britain,1765,1947,Southern_Asia
+904,Punjab,IND_Punjab_904,MAIN,Great_Britain,1849,1947,Southern_Asia
+905,Rajasthan,IND_Rajasthan_905,MAIN,Great_Britain,1818,1947,Southern_Asia
+906,Sikkim,IND_Sikkim_906,MAIN,Great_Britain,1861,1947,Southern_Asia
+907,Tamil_Nadu,IND_Tamil_Nadu_907,MAIN,Portugal,1502,1657,Southern_Asia
+907,Tamil_Nadu,IND_Tamil_Nadu_907,MAIN,Netherlands,1609,1825,Southern_Asia
+907,Tamil_Nadu,IND_Tamil_Nadu_907,MAIN,Great_Britain,1639,1947,Southern_Asia
+908,Tripura,IND_Tripura_908,MAIN,Great_Britain,1809,1947,Southern_Asia
+909,Uttarakhand,IND_Uttarakhand_909,MAIN,Great_Britain,1801,1947,Southern_Asia
+910,Uttar_Pradesh,IND_Uttar_Pradesh_910,MAIN,Great_Britain,1775,1947,Southern_Asia
+911,West_Bengal,IND_West_Bengal_911,MAIN,Portugal,1579,1632,Southern_Asia
+911,West_Bengal,IND_West_Bengal_911,MAIN,Netherlands,1627,1825,Southern_Asia
+911,West_Bengal,IND_West_Bengal_911,MAIN,Great_Britain,1757,1947,Southern_Asia
+919,Israel,ISR_Israel_919,MAIN,Great_Britain,1920,1948,Western_Asia
+921,,ITA_Sardinia_921,ISL,Spain,1516,1708,Europe
+922,,ITA_Sicily_922,ISL,Spain,1516,1713,Europe
+922,,ITA_Sicily_922,ISL,Spain,1735,1850,Europe
+923,,JAM_Jamaica_923,ISL,Spain,1509,1655,Central_America_Carib
+923,,JAM_Jamaica_923,ISL,Great_Britain,1655,1962,Central_America_Carib
+925,,JPN_Japan_925,ISL,Portugal,1541,1638,Central_Asia
+925,,JPN_Japan_925,ISL,Netherlands,1599,1639,Central_Asia
+926,Kenya,KEN_Kenya_926,MAIN,Great_Britain,1891,1963,East_Africa
+928,,KIR_Kiritimati_928,ISL,Great_Britain,1888,1940,Micronesia_Polynesia
+929,,KIR_Palmyra_929,ISL,Great_Britain,1889,1912,Micronesia_Polynesia
+930,,KIR_Canton_930,ISL,Great_Britain,1824,1979,Micronesia_Polynesia
+931,,KIR_Enderbury_931,ISL,Great_Britain,1880,1937,Micronesia_Polynesia
+935,,KIR_Sydney_935,ISL,Great_Britain,1788,1942,Micronesia_Polynesia
+936,,KIR_Tabuaeran_936,ISL,Great_Britain,1889,1979,Micronesia_Polynesia
+937,,KIR_Teraina_937,ISL,Great_Britain,1889,1979,Micronesia_Polynesia
+938,,KNA_Saint_Kitts_938,ISL,Great_Britain,1624,1983,Central_America_Carib
+939,,KNA_Nevis_939,ISL,Great_Britain,1628,1983,Central_America_Carib
+943,Libya,LBY_Libya_943,MAIN,Great_Britain,1946,1952,North_Africa
+944,,LCA_St_Lucia_944,ISL,Great_Britain,1814,1973,Central_America_Carib
+946,,LKA_Sri_Lanka_946,ISL,Portugal,1619,1656,Southern_Asia
+946,,LKA_Sri_Lanka_946,ISL,Great_Britain,1797,1948,Southern_Asia
+947,Lesotho,LSO_Lesotho_947,MAIN,Great_Britain,1874,1966,Mid_South_Africa
+951,Morocco,MAR_Morocco_951,MAIN,Portugal,1415,1755,North_Africa
+951,Morocco,MAR_Morocco_951,MAIN,Spain,1884,1975,North_Africa
+954,Aguascalientes,MEX_Aguascalientes_954,MAIN,Spain,1575,1821,Central_America_Carib
+955,Baja_California_Norte,MEX_Baja_California_Norte_955,MAIN,Spain,1759,1821,Central_America_Carib
+956,Baja_California_Sur,MEX_Baja_California_Sur_956,MAIN,Spain,1683,1821,Central_America_Carib
+957,Campeche,MEX_Campeche_957,MAIN,Spain,1540,1821,Central_America_Carib
+958,Chihuahua,MEX_Chihuahua_958,MAIN,Spain,1567,1821,Central_America_Carib
+959,Chiapas,MEX_Chiapas_959,MAIN,Spain,1528,1821,Central_America_Carib
+960,Coahuila,MEX_Coahuila_960,MAIN,Spain,1575,1821,Central_America_Carib
+961,Colima,MEX_Colima_961,MAIN,Spain,1523,1821,Central_America_Carib
+962,Distrito_Federal,MEX_Distrito_Federal_962,MAIN,Spain,1521,1821,Central_America_Carib
+963,Durango,MEX_Durango_963,MAIN,Spain,1563,1821,Central_America_Carib
+964,Guerrero,MEX_Guerrero_964,MAIN,Spain,1534,1821,Central_America_Carib
+965,Guanajuato,MEX_Guanajuato_965,MAIN,Spain,1523,1821,Central_America_Carib
+966,Hidalgo,MEX_Hidalgo_966,MAIN,Spain,1523,1821,Central_America_Carib
+967,Jalisco,MEX_Jalisco_967,MAIN,Spain,1531,1821,Central_America_Carib
+969,Michoacan,MEX_Michoacan_969,MAIN,Spain,1526,1821,Central_America_Carib
+970,Morelos,MEX_Morelos_970,MAIN,Spain,1523,1821,Central_America_Carib
+971,Nayarit,MEX_Nayarit_971,MAIN,Spain,1528,1821,Central_America_Carib
+972,Nuevo_Leon,MEX_Nuevo_Leon_972,MAIN,Spain,1582,1821,Central_America_Carib
+973,Oaxaca,MEX_Oaxaca_973,MAIN,Spain,1521,1821,Central_America_Carib
+974,Puebla,MEX_Puebla_974,MAIN,Spain,1531,1821,Central_America_Carib
+975,Queretaro,MEX_Queretaro_975,MAIN,Spain,1531,1821,Central_America_Carib
+976,Quintana_Roo,MEX_Quintana_Roo_976,MAIN,Spain,1542,1821,Central_America_Carib
+977,Sinaloa,MEX_Sinaloa_977,MAIN,Spain,1529,1821,Central_America_Carib
+978,San_Luis_Potosi,MEX_San_Luis_Potosi_978,MAIN,Spain,1583,1821,Central_America_Carib
+979,,MEX_Socorro_979,ISL,Spain,1608,1821,Central_America_Carib
+980,Sonora,MEX_Sonora_980,MAIN,Spain,1531,1821,Central_America_Carib
+981,Tabasco,MEX_Tabasco_981,MAIN,Spain,1519,1821,Central_America_Carib
+982,Tamaulipas,MEX_Tamaulipas_982,MAIN,Spain,1554,1821,Central_America_Carib
+983,Tlaxcala,MEX_Tlaxcala_983,MAIN,Spain,1524,1821,Central_America_Carib
+984,Veracruz,MEX_Veracruz_984,MAIN,Spain,1519,1821,Central_America_Carib
+985,Yucatan,MEX_Yucatan_985,MAIN,Spain,1542,1821,Central_America_Carib
+986,Zacatecas,MEX_Zacatecas_986,MAIN,Spain,1530,1821,Central_America_Carib
+987,,MHL_Ailinginae_987,ISL,Great_Britain,1886,1886,Micronesia_Polynesia
+988,,MHL_Enewetak_988,ISL,Great_Britain,1886,1886,Micronesia_Polynesia
+989,,MHL_Majuro_989,ISL,Great_Britain,1886,1886,Micronesia_Polynesia
+990,,MHL_Rongelap_990,ISL,Great_Britain,1886,1886,Micronesia_Polynesia
+993,,MLT_Malta_993,ISL,Great_Britain,1800,1964,Europe
+994,,USA_Alamagan_994,ISL,Spain,1521,1898,Micronesia_Polynesia
+995,,USA_Agrihan_995,ISL,Spain,1521,1898,Micronesia_Polynesia
+996,,USA_Asuncion_996,ISL,Spain,1521,1898,Micronesia_Polynesia
+997,,USA_Aguijan_997,ISL,Spain,1521,1898,Micronesia_Polynesia
+998,,USA_Anatahan_998,ISL,Spain,1521,1898,Micronesia_Polynesia
+999,,USA_Farallon_de_Pajaros_999,ISL,Spain,1521,1898,Micronesia_Polynesia
+1000,,USA_Guguan_1000,ISL,Spain,1521,1898,Micronesia_Polynesia
+1001,,USA_Maug_Islands_1001,ISL,Spain,1521,1898,Micronesia_Polynesia
+1002,,USA_Pagan_1002,ISL,Spain,1521,1898,Micronesia_Polynesia
+1003,,USA_Rota_1003,ISL,Spain,1521,1898,Micronesia_Polynesia
+1004,,USA_Sarigan_1004,ISL,Spain,1521,1898,Micronesia_Polynesia
+1005,,USA_Saipan_1005,ISL,Spain,1521,1898,Micronesia_Polynesia
+1006,,USA_Tinian_1006,ISL,Spain,1521,1898,Micronesia_Polynesia
+1007,Niassa,MOZ_Niassa_1007,MAIN,Portugal,1695,1975,East_Africa
+1008,Manica,MOZ_Manica_1008,MAIN,Portugal,1695,1975,East_Africa
+1009,Gaza,MOZ_Gaza_1009,MAIN,Portugal,1695,1975,East_Africa
+1010,Inhambane,MOZ_Inhambane_1010,MAIN,Portugal,1534,1975,East_Africa
+1011,Maputo,MOZ_Maputo_1011,MAIN,Portugal,1720,1730,East_Africa
+1011,Maputo,MOZ_Maputo_1011,MAIN,Portugal,1781,1975,East_Africa
+1012,Nampula,MOZ_Nampula_1012,MAIN,Portugal,1505,1975,East_Africa
+1013,Cabo_Delgado,MOZ_Cabo_Delgado_1013,MAIN,Portugal,1544,1975,East_Africa
+1014,Zambezia,MOZ_Zambezia_1014,MAIN,Portugal,1544,1975,East_Africa
+1015,Sofala,MOZ_Sofala_1015,MAIN,Portugal,1505,1975,East_Africa
+1016,Tete,MOZ_Tete_1016,MAIN,Portugal,1531,1975,East_Africa
+1017,Mauritania,MRT_Mauritania_1017,MAIN,Spain,1884,1975,Western_Africa
+1018,,GBR_Montserrat_1018,ISL,Great_Britain,1632,1782,Central_America_Carib
+1018,,GBR_Montserrat_1018,ISL,Great_Britain,1783,1946,Central_America_Carib
+1019,,FRA_Martinique_1019,ISL,Great_Britain,1762,1763,Central_America_Carib
+1019,,FRA_Martinique_1019,ISL,Great_Britain,1794,1802,Central_America_Carib
+1019,,FRA_Martinique_1019,ISL,Great_Britain,1809,1814,Central_America_Carib
+1021,Malawi,MWI_Malawi_1021,MAIN,Great_Britain,1891,1964,East_Africa
+1022,Penninsular_Malaysia,MYS_Penninsular_Malaysia_1022,MAIN,Portugal,1511,1641,Southeast_Asia
+1022,Penninsular_Malaysia,MYS_Penninsular_Malaysia_1022,MAIN,Netherlands,1641,1795,Southeast_Asia
+1022,Penninsular_Malaysia,MYS_Penninsular_Malaysia_1022,MAIN,Great_Britain,1795,1957,Southeast_Asia
+1023,Namibia,NAM_Namibia_1023,MAIN,Great_Britain,1915,1920,Mid_South_Africa
+1026,,NZL_Norfolk_Island_1026,ISL,Great_Britain,1788,1814,Oceania
+1026,,NZL_Norfolk_Island_1026,ISL,Great_Britain,1825,1855,Oceania
+1026,,NZL_Norfolk_Island_1026,ISL,Great_Britain,1855,1897,Oceania
+1027,Nigeria,NGA_Nigeria_1027,MAIN,Great_Britain,1874,1960,Western_Africa
+1028,Nicaragua,NIC_Nicaragua_1028,MAIN,Spain,1523,1821,Central_America_Carib
+1033,Nepal,NPL_Nepal_1033,MAIN,Great_Britain,1858,1923,Southern_Asia
+1034,,NRU_Nauru_1034,ISL,Great_Britain,1914,1944,Micronesia_Polynesia
+1037,,NZL_Chatham_Islands_1037,ISL,Great_Britain,1791,1842,Micronesia_Polynesia
+1068,Peru,PER_Peru_1068,MAIN,Spain,1532,1823,South_America
+1069,,PHL_Philippines_1069,ISL,Spain,1565,1898,Southeast_Asia
+1069,,PHL_Philippines_1069,ISL,Great_Britain,1762,1764,Southeast_Asia
+1071,,USA_Puerto_Rico_1071,ISL,Spain,1509,1898,Central_America_Carib
+1076,,PRT_Madeira_1076,ISL,Portugal,1419,1580,Europe
+1076,,PRT_Madeira_1076,ISL,Great_Britain,1801,1814,Europe
+1076,,PRT_Madeira_1076,ISL,Spain,1580,1583,Europe
+1076,,PRT_Madeira_1076,ISL,Portugal,1814,1976,Europe
+1077,,PRT_Porto_Santo_1077,ISL,Portugal,1429,1976,Europe
+1078,,PRT_Salvage_Islands_1078,ISL,Portugal,1438,1976,Europe
+1110,,GBR_Pitcairn_Island_1110,ISL,Great_Britain,1790,1946,Micronesia_Polynesia
+1111,,PYF_Bora_Bora_1111,ISL,Great_Britain,1820,1887,Micronesia_Polynesia
+1121,,PYF_Tahiti_1121,ISL,Great_Britain,1767,1842,Micronesia_Polynesia
+1121,,PYF_Tahiti_1121,ISL,Great_Britain,1767,1842,Micronesia_Polynesia
+1149,Qatar,QAT_Qatar_1149,MAIN,Portugal,1521,1550,Western_Asia
+1149,Qatar,QAT_Qatar_1149,MAIN,Great_Britain,1914,1970,Western_Asia
+1195,Senegal,SEN_Senegal_1195,MAIN,Portugal,1444,1617,Western_Africa
+1195,Senegal,SEN_Senegal_1195,MAIN,Netherlands,1617,1677,Western_Africa
+1195,Senegal,SEN_Senegal_1195,MAIN,Portugal,1645,1888,Western_Africa
+1195,Senegal,SEN_Senegal_1195,MAIN,Great_Britain,1693,1817,Western_Africa
+1196,,SGP_Singapore_1196,ISL,Great_Britain,1821,1961,Southeast_Asia
+1197,,GBR_South_Georgia_Islands_1197,ISL,Great_Britain,1775,1985,South_America
+1200,,GBR_Nightingale_1200,ISL,Great_Britain,1817,1961,Mid_South_Africa
+1201,,GBR_Tristan_da_Cunha_1201,ISL,Great_Britain,1817,1961,Mid_South_Africa
+1202,Sierra_Leone,SLE_Sierra_Leone_1202,MAIN,Great_Britain,1838,1961,Western_Africa
+1203,Somalia,SOM_Somalia_1203,MAIN,Portugal,1506,1758,East_Africa
+1203,Somalia,SOM_Somalia_1203,MAIN,Great_Britain,1885,1956,East_Africa
+1204,,FRA_St_Pierre_and_Miquelon_1204,ISL,Great_Britain,1713,1763,Northern_North_America
+1204,,FRA_St_Pierre_and_Miquelon_1204,ISL,Great_Britain,1778,1783,Northern_North_America
+1204,,FRA_St_Pierre_and_Miquelon_1204,ISL,Great_Britain,1796,1815,Northern_North_America
+1205,,STP_Sao_Tome_and_Principe_1205,ISL,Portugal,1522,1975,Mid_South_Africa
+1206,Suriname,SUR_Suriname_1206,MAIN,Great_Britain,1650,1667,South_America
+1206,Suriname,SUR_Suriname_1206,MAIN,Netherlands,1642,1964,South_America
+1210,Swaziland,SWZ_Swaziland_1210,MAIN,Great_Britain,1897,1968,Mid_South_Africa
+1213,,SYC_Aldabra_1213,ISL,Great_Britain,1814,1976,East_Africa
+1214,,SYC_Alphonse_1214,ISL,Great_Britain,1814,1976,East_Africa
+1215,,SYC_Aride_1215,ISL,Great_Britain,1814,1976,East_Africa
+1218,,SYC_Bird_1218,ISL,Great_Britain,1814,1976,East_Africa
+1221,,SYC_Coetivy_1221,ISL,Great_Britain,1814,1976,East_Africa
+1226,,SYC_Curieuse_1226,ISL,Great_Britain,1814,1976,East_Africa
+1227,,SYC_Darros_1227,ISL,Great_Britain,1814,1976,East_Africa
+1228,,SYC_Denis_1228,ISL,Great_Britain,1814,1976,East_Africa
+1229,,SYC_Desroches_1229,ISL,Great_Britain,1835,1976,East_Africa
+1231,,SYC_Farquhar_1231,ISL,Great_Britain,1965,1976,East_Africa
+1232,,SYC_Felicite_1232,ISL,Great_Britain,1814,1976,East_Africa
+1234,,SYC_Grande_Soeur_1234,ISL,Great_Britain,1814,1976,East_Africa
+1235,,SYC_Ile_au_Cerf_1235,ISL,Great_Britain,1814,1976,East_Africa
+1236,,SYC_Ile_Anonyme_1236,ISL,Great_Britain,1814,1976,East_Africa
+1237,,SYC_Ile_Longue_1237,ISL,Great_Britain,1825,1976,East_Africa
+1241,,SYC_Mahe_1241,ISL,Great_Britain,1814,1976,East_Africa
+1245,,SYC_Platte_1245,ISL,Great_Britain,1838,1976,East_Africa
+1247,,SYC_Praslin_1247,ISL,Great_Britain,1814,1976,East_Africa
+1248,,SYC_Providence_1248,ISL,Great_Britain,1814,1976,East_Africa
+1251,,SYC_Remire_1251,ISL,Great_Britain,1882,1976,East_Africa
+1257,Chaparal,CHL_Chaparal_1257,MAIN,Spain,1541,1817,South_America
+1260,,TON_Tonga_1260,ISL,Great_Britain,1900,1970,Micronesia_Polynesia
+1264,Tanzania,TZA_Tanzania_1264,MAIN,Great_Britain,1912,1961,East_Africa
+1265,Uganda,UGA_Uganda_1265,MAIN,Great_Britain,1892,1962,East_Africa
+1267,Uruguay,URY_Uruguay_1267,MAIN,Spain,1590,1823,South_America
+1267,Uruguay,URY_Uruguay_1267,MAIN,Portugal,1680,1822,South_America
+1269,Alabama,USA_Alabama_1269,MAIN,Great_Britain,1763,1812,Mid_North_America
+1271,Arizona,USA_Arizona_1271,MAIN,Spain,1752,1821,Mid_North_America
+1272,California,USA_California_1272,MAIN,Spain,1769,1821,Mid_North_America
+1274,Connecticut,USA_Connecticut_1274,MAIN,Netherlands,1634,1662,Mid_North_America
+1274,Connecticut,USA_Connecticut_1274,MAIN,Great_Britain,1636,1776,Mid_North_America
+1275,Washington_DC,USA_Washington_DC_1275,MAIN,Great_Britain,1632,1776,Mid_North_America
+1276,Delaware,USA_Delaware_1276,MAIN,Netherlands,1620,1638,Mid_North_America
+1276,Delaware,USA_Delaware_1276,MAIN,Netherlands,1655,1664,Mid_North_America
+1276,Delaware,USA_Delaware_1276,MAIN,Great_Britain,1664,1776,Mid_North_America
+1277,Florida,USA_Florida_1277,MAIN,Spain,1565,1763,Mid_North_America
+1277,Florida,USA_Florida_1277,MAIN,Great_Britain,1763,1783,Mid_North_America
+1278,Georgia,USA_Georgia_1278,MAIN,Great_Britain,1732,1776,Mid_North_America
+1282,Illinois,USA_Illinois_1282,MAIN,Great_Britain,1763,1783,Mid_North_America
+1283,Indiana,USA_Indiana_1283,MAIN,Great_Britain,1763,1787,Mid_North_America
+1286,Kentucky,USA_Kentucky_1286,MAIN,Great_Britain,1763,1783,Mid_North_America
+1287,Louisiana,USA_Louisiana_1287,MAIN,Spain,1763,1800,Mid_North_America
+1288,Massachusetts,USA_Massachusetts_1288,MAIN,Great_Britain,1620,1776,Mid_North_America
+1289,Maryland,USA_Maryland_1289,MAIN,Great_Britain,1632,1776,Mid_North_America
+1290,Maine,USA_Maine_1290,MAIN,Great_Britain,1622,1783,Mid_North_America
+1291,Michigan,USA_Michigan_1291,MAIN,Great_Britain,1763,1783,Mid_North_America
+1292,Minnesota,USA_Minnesota_1292,MAIN,Great_Britain,1763,1783,Mid_North_America
+1292,Minnesota,USA_Minnesota_1292,MAIN,Spain,1762,1800,Mid_North_America
+1293,Missouri,USA_Missouri_1293,MAIN,Spain,1762,1800,Mid_North_America
+1294,Mississippi,USA_Mississippi_1294,MAIN,Great_Britain,1763,1783,Mid_North_America
+1296,North_Carolina,USA_North_Carolina_1296,MAIN,Great_Britain,1653,1776,Mid_North_America
+1297,North_Dakota,USA_North_Dakota_1297,MAIN,Spain,1762,1800,Mid_North_America
+1298,Nebraska,USA_Nebraska_1298,MAIN,Spain,1541,1682,Mid_North_America
+1299,New_Hampshire,USA_New_Hampshire_1299,MAIN,Great_Britain,1623,1776,Mid_North_America
+1301,New_Jersey,USA_New_Jersey_1301,MAIN,Netherlands,1609,1664,Mid_North_America
+1301,New_Jersey,USA_New_Jersey_1301,MAIN,Great_Britain,1664,1776,Mid_North_America
+1302,New_Mexico,USA_New_Mexico_1302,MAIN,Spain,1598,1821,Mid_North_America
+1303,Nevada,USA_Nevada_1303,MAIN,Spain,1769,1821,Mid_North_America
+1304,New_York,USA_New_York_1304,MAIN,Netherlands,1614,1664,Mid_North_America
+1304,New_York,USA_New_York_1304,MAIN,Great_Britain,1667,1776,Mid_North_America
+1305,Ohio,USA_Ohio_1305,MAIN,Great_Britain,1763,1776,Mid_North_America
+1307,Oregon,USA_Oregon_1307,MAIN,Great_Britain,1681,1776,Mid_North_America
+1308,Pennsylvania,USA_Pennsylvania_1308,MAIN,Netherlands,1655,1682,Mid_North_America
+1308,Pennsylvania,USA_Pennsylvania_1308,MAIN,Great_Britain,1682,1776,Mid_North_America
+1309,Rhode_Island,USA_Rhode_Island_1309,MAIN,Great_Britain,1636,1776,Mid_North_America
+1310,South_Carolina,USA_South_Carolina_1310,MAIN,Great_Britain,1663,1776,Mid_North_America
+1312,Tennessee,USA_Tennessee_1312,MAIN,Great_Britain,1763,1775,Mid_North_America
+1313,Texas,USA_Texas_1313,MAIN,Spain,1690,1820,Mid_North_America
+1314,Utah,USA_Utah_1314,MAIN,Spain,1765,1821,Mid_North_America
+1315,Virginia,USA_Virginia_1315,MAIN,Great_Britain,1607,1776,Mid_North_America
+1317,Vermont,USA_Vermont_1317,MAIN,Great_Britain,1724,1777,Mid_North_America
+1318,Washington,USA_Washington_1318,MAIN,Spain,1775,1792,Mid_North_America
+1318,Washington,USA_Washington_1318,MAIN,Great_Britain,1792,1848,Mid_North_America
+1319,Wisconsin,USA_Wisconsin_1319,MAIN,Great_Britain,1763,1783,Mid_North_America
+1320,West_Virginia,USA_West_Virginia_1320,MAIN,Great_Britain,1607,1776,Mid_North_America
+1322,,VCT_The_Grenadines_1322,ISL,Great_Britain,1762,1974,Central_America_Carib
+1323,,VCT_Saint_Vincent_1323,ISL,Great_Britain,1763,1951,Central_America_Carib
+1324,Venezuela,VEN_Venezuela_1324,MAIN,Spain,1534,1820,South_America
+1325,,GBR_Anegada_1325,ISL,Great_Britain,1672,1946,Central_America_Carib
+1325,,GBR_Anegada_1325,ISL,Spain,1493,1648,Central_America_Carib
+1325,,GBR_Anegada_1325,ISL,Netherlands,1648,1680,Central_America_Carib
+1326,,GBR_Guana_Island_1326,ISL,Spain,1493,1648,Central_America_Carib
+1326,,GBR_Guana_Island_1326,ISL,Great_Britain,1665,1946,Central_America_Carib
+1326,,GBR_Guana_Island_1326,ISL,Netherlands,1615,1665,Central_America_Carib
+1327,,GBR_Jost_van_Dyke_1327,ISL,Great_Britain,1672,1946,Central_America_Carib
+1327,,GBR_Jost_van_Dyke_1327,ISL,Spain,1493,1750,Central_America_Carib
+1328,,GBR_Tortola_1328,ISL,Spain,1493,1648,Central_America_Carib
+1328,,GBR_Tortola_1328,ISL,Great_Britain,1665,1946,Central_America_Carib
+1328,,GBR_Tortola_1328,ISL,Netherlands,1615,1665,Central_America_Carib
+1329,,GBR_Virgin_Gorda_1329,ISL,Spain,1493,1628,Central_America_Carib
+1329,,GBR_Virgin_Gorda_1329,ISL,Netherlands,1628,1680,Central_America_Carib
+1329,,GBR_Virgin_Gorda_1329,ISL,Great_Britain,1680,1946,Central_America_Carib
+1334,Yemen,YEM_Yemen_1334,MAIN,Great_Britain,1879,1967,Western_Asia
+1335,Eastern_Cape,ZAF_Eastern_Cape_1335,MAIN,Netherlands,1702,1806,Mid_South_Africa
+1335,Eastern_Cape,ZAF_Eastern_Cape_1335,MAIN,Great_Britain,1795,1912,Mid_South_Africa
+1336,Free_State,ZAF_Free_State_1336,MAIN,Netherlands,1652,1806,Mid_South_Africa
+1336,Free_State,ZAF_Free_State_1336,MAIN,Great_Britain,1846,1854,Mid_South_Africa
+1336,Free_State,ZAF_Free_State_1336,MAIN,Great_Britain,1900,1912,Mid_South_Africa
+1337,Gauteng,ZAF_Gauteng_1337,MAIN,Netherlands,1855,1877,Mid_South_Africa
+1337,Gauteng,ZAF_Gauteng_1337,MAIN,Great_Britain,1877,1881,Mid_South_Africa
+1338,KwaZulu_Natal,ZAF_KwaZulu_Natal_1338,MAIN,Great_Britain,1824,1835,Mid_South_Africa
+1338,KwaZulu_Natal,ZAF_KwaZulu_Natal_1338,MAIN,Netherlands,1835,1842,Mid_South_Africa
+1338,KwaZulu_Natal,ZAF_KwaZulu_Natal_1338,MAIN,Great_Britain,1842,1912,Mid_South_Africa
+1339,Limpopo,ZAF_Limpopo_1339,MAIN,Netherlands,1836,1877,Mid_South_Africa
+1339,Limpopo,ZAF_Limpopo_1339,MAIN,Great_Britain,1877,1912,Mid_South_Africa
+1340,,ZAF_Marion_Island_1340,ISL,Great_Britain,1908,1947,Mid_South_Africa
+1341,Mpumalanga,ZAF_Mpumalanga_1341,MAIN,Netherlands,1845,1877,Mid_South_Africa
+1341,Mpumalanga,ZAF_Mpumalanga_1341,MAIN,Great_Britain,1877,1912,Mid_South_Africa
+1342,Northern_Cape,ZAF_Northern_Cape_1342,MAIN,Netherlands,1652,1806,Mid_South_Africa
+1342,Northern_Cape,ZAF_Northern_Cape_1342,MAIN,Great_Britain,1817,1912,Mid_South_Africa
+1343,North_West,ZAF_North_West_1343,MAIN,Netherlands,1859,1877,Mid_South_Africa
+1343,North_West,ZAF_North_West_1343,MAIN,Great_Britain,1877,1912,Mid_South_Africa
+1344,,ZAF_Prince_Edward_Island_Group_1344,ISL,Great_Britain,1908,1947,Mid_South_Africa
+1345,Western_Cape,ZAF_Western_Cape_1345,MAIN,Netherlands,1652,1795,Mid_South_Africa
+1345,Western_Cape,ZAF_Western_Cape_1345,MAIN,Great_Britain,1795,1912,Mid_South_Africa
+1346,Central,ZMB_Central_1346,MAIN,Great_Britain,1909,1964,East_Africa
+1347,Copperbelt,ZMB_Copperbelt_1347,MAIN,Great_Britain,1902,1964,East_Africa
+1348,Eastern,ZMB_Eastern_1348,MAIN,Great_Britain,1888,1964,East_Africa
+1349,Luapula,ZMB_Luapula_1349,MAIN,Great_Britain,1900,1964,East_Africa
+1350,Lusaka,ZMB_Lusaka_1350,MAIN,Great_Britain,1905,1964,East_Africa
+1351,Northern,ZMB_Northern_1351,MAIN,Great_Britain,1895,1964,East_Africa
+1352,North_Western,ZMB_North_Western_1352,MAIN,Great_Britain,1888,1964,East_Africa
+1353,Southern,ZMB_Southern_1353,MAIN,Great_Britain,1909,1964,East_Africa
+1354,Western,ZMB_Western_1354,MAIN,Great_Britain,1872,1964,East_Africa
+1355,Central_region,ZWE_Central_region_1355,MAIN,Great_Britain,1890,1980,East_Africa
+1356,Eastern_region,ZWE_Eastern_region_1356,MAIN,Great_Britain,1890,1980,East_Africa
+1357,Northern_region,ZWE_Northern_region_1357,MAIN,Great_Britain,1888,1980,East_Africa
+1358,Southern_region,ZWE_Southern_region_1358,MAIN,Great_Britain,1890,1980,East_Africa
+1359,Western_region,ZWE_Western_region_1359,MAIN,Great_Britain,1893,1980,East_Africa
+1393,Guadeloupe,GLP_Guadeloupe_1393,ISL,Great_Britain,1759,1763,Central_America_Carib
+1393,Guadeloupe,GLP_Guadeloupe_1393,ISL,Great_Britain,1810,1813,Central_America_Carib
+1400,Maldives,MDV_Maldives_1400,ISL,Great_Britain,1887,1965,Southern_Asia
+1400,Maldives,MDV_Maldives_1400,ISL,Netherlands,1573,1796,Southern_Asia
+1402,"Department of Amazonas, Colombia","COL.AMA_Department of Amazonas, Colombia_1402",MAIN,Spain,1542,1819,South_America
+1404,"Department of Vichada, Colombia","COL.VIC_Department of Vichada, Colombia_1404",MAIN,Spain,1518,1819,South_America
+1405,"Department of Caquet , Colombia","COL.CAQ_Department of Caquet , Colombia_1405",MAIN,Spain,1542,1819,South_America
+1406,"Department of Meta, Colombia","COL.MET_Department of Meta, Colombia_1406",MAIN,Spain,1518,1819,South_America
+1409,"Department of Guain¡a, Colombia","COL.GUA_Department of Guain¡a, Colombia_1409",MAIN,Spain,1542,1819,South_America
+1412,"Department of Antioquia, Colombia","COL.ANT_Department of Antioquia, Colombia_1412",MAIN,Spain,1510,1819,South_America
+1413,"Department of Guaviare, Colombia","COL.GUV_Department of Guaviare, Colombia_1413",MAIN,Spain,1542,1819,South_America
+1414,"Department of Vaup‚s, Colombia","COL.VAU_Department of Vaup‚s, Colombia_1414",MAIN,Spain,1542,1819,South_America
+1416,"Department of Choc¢, Colombia","COL.CHO_Department of Choc¢, Colombia_1416",MAIN,Spain,1510,1819,South_America
+1418,"Department of Casanare, Colombia","COL.CAS_Department of Casanare, Colombia_1418",MAIN,Spain,1518,1819,South_America
+1425,"Department of Napo, Ecuador","ECU.NAP_Department of Napo, Ecuador_1425",MAIN,Spain,1534,1823,South_America
+1427,"Department of Nari¤o, Colombia","COL.NAR_Department of Nari¤o, Colombia_1427",MAIN,Spain,1510,1819,South_America
+1428,"Department of Santander, Colombia","COL.SAN_Department of Santander, Colombia_1428",MAIN,Spain,1539,1819,South_America
+1429,"Department of Pastaza, Ecuador","ECU.PAS_Department of Pastaza, Ecuador_1429",MAIN,Spain,1534,1823,South_America
+1430,"Department of Cauca, Colombia","COL.CAU_Department of Cauca, Colombia_1430",MAIN,Spain,1510,1819,South_America
+1431,"Department of Bol¡var, Colombia","COL.BOL_Department of Bol¡var, Colombia_1431",MAIN,Spain,1525,1819,South_America
+1432,"Department of Arauca, Colombia","COL.ARA_Department of Arauca, Colombia_1432",MAIN,Spain,1518,1819,South_America
+1434,"Department of C¢rdoba, Colombia","COL.COR_Department of C¢rdoba, Colombia_1434",MAIN,Spain,1527,1819,South_America
+1435,"Department of Cundinamarca, Colombia","COL.CUN_Department of Cundinamarca, Colombia_1435",MAIN,Spain,1539,1819,South_America
+1436,"Department of Morona.Santiago, Ecuador","ECU.MOR_Department of Morona.Santiago, Ecuador_1436",MAIN,Spain,1534,1823,South_America
+1437,"Department of Putumayo, Colombia","COL.PUT_Department of Putumayo, Colombia_1437",MAIN,Spain,1542,1819,South_America
+1439,"Department of Tolima, Colombia","COL.TOL_Department of Tolima, Colombia_1439",MAIN,Spain,1539,1819,South_America
+1440,"Department of Boyac , Colombia","COL.BOY_Department of Boyac , Colombia_1440",MAIN,Spain,1539,1819,South_America
+1441,"Department of Cesar, Colombia","COL.CES_Department of Cesar, Colombia_1441",MAIN,Spain,1527,1819,South_America
+1442,"Department of Norte de Santander, Colombia","COL.NOR_Department of Norte de Santander, Colombia_1442",MAIN,Spain,1539,1819,South_America
+1444,"Department of Valle del Cauca, Colombia","COL.VAL_Department of Valle del Cauca, Colombia_1444",MAIN,Spain,1510,1819,South_America
+1445,"Department of Magdalena, Colombia","COL.MAG_Department of Magdalena, Colombia_1445",MAIN,Spain,1527,1819,South_America
+1448,"Department of La Guajira, Colombia","COL.GUJ_Department of La Guajira, Colombia_1448",MAIN,Spain,1527,1819,South_America
+1450,"Department of Huila, Colombia","COL.HUI_Department of Huila, Colombia_1450",MAIN,Spain,1539,1819,South_America
+1451,"Department of Guayas, Ecuador","ECU.GUA_Department of Guayas, Ecuador_1451",MAIN,Spain,1534,1823,South_America
+1452,"Department of Manab¡, Ecuador","ECU.MAN_Department of Manab¡, Ecuador_1452",MAIN,Spain,1534,1823,South_America
+1454,"Department of Sucumb¡os, Ecuador","ECU.SUC_Department of Sucumb¡os, Ecuador_1454",MAIN,Spain,1534,1823,South_America
+1460,"Department of Esmeraldas, Ecuador","ECU.ESM_Department of Esmeraldas, Ecuador_1460",MAIN,Spain,1534,1823,South_America
+1464,"Department of Pichincha, Ecuador","ECU.PIC_Department of Pichincha, Ecuador_1464",MAIN,Spain,1534,1823,South_America
+1472,"Department of Loja, Ecuador","ECU.LOJ_Department of Loja, Ecuador_1472",MAIN,Spain,1534,1823,South_America
+1474,"Department of Sucre, Colombia","COL.SUC_Department of Sucre, Colombia_1474",MAIN,Spain,1527,1819,South_America
+1476,"Department of Zamora.Chinchipe, Ecuador","ECU.ZAM_Department of Zamora.Chinchipe, Ecuador_1476",MAIN,Spain,1534,1823,South_America
+1485,"Department of Azuay, Ecuador","ECU.AZU_Department of Azuay, Ecuador_1485",MAIN,Spain,1534,1823,South_America
+1486,"Department of Caldas, Colombia","COL.CAL_Department of Caldas, Colombia_1486",MAIN,Spain,1539,1819,South_America
+1487,"Department of Los.R¡os, Ecuador","ECU.RIO_Department of Los.R¡os, Ecuador_1487",MAIN,Spain,1534,1823,South_America
+1488,"Department of Chimborazo, Ecuador","ECU.CHI_Department of Chimborazo, Ecuador_1488",MAIN,Spain,1534,1823,South_America
+1490,"Department of Cotopaxi, Ecuador","ECU.COT_Department of Cotopaxi, Ecuador_1490",MAIN,Spain,1534,1823,South_America
+1491,"Department of El.Oro, Ecuador","ECU.ORO_Department of El.Oro, Ecuador_1491",MAIN,Spain,1534,1823,South_America
+1497,"Department of Imbabura, Ecuador","ECU.IMB_Department of Imbabura, Ecuador_1497",MAIN,Spain,1534,1823,South_America
+1499,"Department of Atl ntico, Colombia","COL.ATL_Department of Atl ntico, Colombia_1499",MAIN,Spain,1527,1819,South_America
+1500,"Department of Risaralda, Colombia","COL.RIS_Department of Risaralda, Colombia_1500",MAIN,Spain,1539,1819,South_America
+1501,"Department of Bol¡var, Ecuador","ECU.BOL_Department of Bol¡var, Ecuador_1501",MAIN,Spain,1534,1823,South_America
+1503,"Department of Carchi, Ecuador","ECU.CAR_Department of Carchi, Ecuador_1503",MAIN,Spain,1534,1823,South_America
+1504,"Department of Tungurahua, Ecuador","ECU.TUN_Department of Tungurahua, Ecuador_1504",MAIN,Spain,1534,1823,South_America
+1505,"Department of Ca¤ar, Ecuador","ECU.CAN_Department of Ca¤ar, Ecuador_1505",MAIN,Spain,1534,1823,South_America
+1507,"Department of Quind¡o, Colombia","COL.QUI_Department of Quind¡o, Colombia_1507",MAIN,Spain,1539,1819,South_America
+1509,"Department of San Andr‚s, Providencia y Santa Catalina, Colombia","COL.SPS_Department of San Andr‚s, Providencia y Santa Catalina, Colombia_1509",ISL,Spain,1518,1819,Central_America_Carib
+1514,"Region de Santa Cruz, Bolivia","BOL.SCR_Region de Santa Cruz, Bolivia_1514",MAIN,Spain,1545,1825,South_America
+1515,"Region del Beni, Bolivia","BOL.BEN_Region del Beni, Bolivia_1515",MAIN,Spain,1545,1825,South_America
+1516,"Region de La Paz, Bolivia","BOL.LPA_Region de La Paz, Bolivia_1516",MAIN,Spain,1545,1825,South_America
+1517,"Region de Potos¡, Bolivia","BOL.POT_Region de Potos¡, Bolivia_1517",MAIN,Spain,1545,1825,South_America
+1518,"Region de Pando, Bolivia","BOL.PAN_Region de Pando, Bolivia_1518",MAIN,Spain,1545,1825,South_America
+1519,"Region de Cochabamba, Bolivia","BOL.COC_Region de Cochabamba, Bolivia_1519",MAIN,Spain,1545,1825,South_America
+1520,"Region de Oruro, Bolivia","BOL.ORU_Region de Oruro, Bolivia_1520",MAIN,Spain,1545,1825,South_America
+1521,"Region de Chuquisaca, Bolivia","BOL.CHU_Region de Chuquisaca, Bolivia_1521",MAIN,Spain,1545,1825,South_America
+1522,"Region de Tarija, Bolivia","BOL.TAR_Region de Tarija, Bolivia_1522",MAIN,Spain,1545,1825,South_America
+1528,New Zealand North Island,NZL.NOI_New Zealand North Island_1528,ISL,Great_Britain,1840,1909,Oceania
+1529,New Zealand South Island (without Stewart Island etc.),NZL.SOI_New Zealand South Island (without Stewart Island etc.)_1529,ISL,Great_Britain,1840,1909,Oceania
+1530,New Zealand Stewart Island,NZL.STI_New Zealand Stewart Island_1530,ISL,Great_Britain,1840,1909,Oceania
+1623,Mauritius island,MUS.MUS_Mauritius island_1623,ISL,Netherlands,1638,1710,East_Africa
+1623,Mauritius island,MUS.MUS_Mauritius island_1623,ISL,Great_Britain,1810,1968,East_Africa
+1629,"Bocas del Toro Province, Panama","PAN.BOC_Bocas del Toro Province, Panama_1629",MAIN,Spain,1514,1820,Central_America_Carib
+1630,"Chiriqu¡ Province, Panama","PAN.CHI_Chiriqu¡ Province, Panama_1630",MAIN,Spain,1514,1820,Central_America_Carib
+1631,"Cocl‚ Province, Panama","PAN.COC_Cocl‚ Province, Panama_1631",MAIN,Spain,1514,1820,Central_America_Carib
+1632,"Col¢n Province, Panama","PAN.COL_Col¢n Province, Panama_1632",MAIN,Spain,1514,1820,Central_America_Carib
+1633,"Dari‚n Province, Panama","PAN.DAR_Dari‚n Province, Panama_1633",MAIN,Spain,1514,1820,Central_America_Carib
+1634,"Herrera Province, Panama","PAN.HER_Herrera Province, Panama_1634",MAIN,Spain,1514,1820,Central_America_Carib
+1635,"Los Santos Province, Panama","PAN.LOS_Los Santos Province, Panama_1635",MAIN,Spain,1514,1820,Central_America_Carib
+1636,"Panam  Province, Panama","PAN.PAN_Panam  Province, Panama_1636",MAIN,Spain,1514,1820,Central_America_Carib
+1637,"San Blas Province, Panama","PAN.BLA_San Blas Province, Panama_1637",MAIN,Spain,1514,1820,Central_America_Carib
+1638,"Veraguas Province, Panama","PAN.VER_Veraguas Province, Panama_1638",MAIN,Spain,1514,1820,Central_America_Carib
+1648,Saint-Martin (French part),MAF_Saint-Martin (French part)_1648,ISL,Netherlands,1631,1631,Central_America_Carib
+1648,Saint-Martin (French part),MAF_Saint-Martin (French part)_1648,ISL,Great_Britain,1631,1633,Central_America_Carib
+1648,Saint-Martin (French part),MAF_Saint-Martin (French part)_1648,ISL,Great_Britain,1781,1787,Central_America_Carib
+1648,Saint-Martin (French part),MAF_Saint-Martin (French part)_1648,ISL,Spain,1633,1810,Central_America_Carib
+1648,Saint-Martin (French part),MAF_Saint-Martin (French part)_1648,ISL,Netherlands,1648,1810,Central_America_Carib
+1648,Saint-Martin (French part),MAF_Saint-Martin (French part)_1648,ISL,Great_Britain,1810,1816,Central_America_Carib
+1648,Saint-Martin (French part),MAF_Saint-Martin (French part)_1648,ISL,Netherlands,1816,2010,Central_America_Carib
+1657,Micronesia (Federated States of),FSM_Micronesia (Federated States of)_1657,ISL,Spain,1650,1899,Micronesia_Polynesia
+1771,"Regi¢n de Tarapac , Chile","CHL_Regi¢n de Tarapac , Chile_1771",MAIN,Spain,1541,1817,South_America
+1773,Java,IDN_Java_1773,ISL,Portugal,1522,1596,Southeast_Asia
+1773,Java,IDN_Java_1773,ISL,Netherlands,1596,1808,Southeast_Asia
+1773,Java,IDN_Java_1773,ISL,Netherlands,1814,1949,Southeast_Asia
+1773,Java,IDN_Java_1773,ISL,Great_Britain,1811,1816,Southeast_Asia
+1792,"Bumthang, Bhutan","NA_Bumthang, Bhutan_1792",MAIN,Great_Britain,1888,1949,Southern_Asia
+1793,"Chhukha, Bhutan","NA_Chhukha, Bhutan_1793",MAIN,Great_Britain,1888,1949,Southern_Asia
+1794,"Dagana, Bhutan","NA_Dagana, Bhutan_1794",MAIN,Great_Britain,1888,1949,Southern_Asia
+1795,"Gasa, Bhutan","NA_Gasa, Bhutan_1795",MAIN,Great_Britain,1888,1949,Southern_Asia
+1796,"Haa, Bhutan","NA_Haa, Bhutan_1796",MAIN,Great_Britain,1888,1949,Southern_Asia
+1797,"Lhuentse, Bhutan","NA_Lhuentse, Bhutan_1797",MAIN,Great_Britain,1888,1949,Southern_Asia
+1798,"Monggar, Bhutan","NA_Monggar, Bhutan_1798",MAIN,Great_Britain,1888,1949,Southern_Asia
+1799,"Paro, Bhutan","NA_Paro, Bhutan_1799",MAIN,Great_Britain,1888,1949,Southern_Asia
+1800,"Pemagatshel, Bhutan","NA_Pemagatshel, Bhutan_1800",MAIN,Great_Britain,1888,1949,Southern_Asia
+1801,"Punakha, Bhutan","NA_Punakha, Bhutan_1801",MAIN,Great_Britain,1888,1949,Southern_Asia
+1802,"Samdrupjongkhar, Bhutan","NA_Samdrupjongkhar, Bhutan_1802",MAIN,Great_Britain,1888,1949,Southern_Asia
+1803,"Samtse, Bhutan","NA_Samtse, Bhutan_1803",MAIN,Great_Britain,1888,1949,Southern_Asia
+1804,"Sarpang, Bhutan","NA_Sarpang, Bhutan_1804",MAIN,Great_Britain,1888,1949,Southern_Asia
+1805,"Thimphu, Bhutan","NA_Thimphu, Bhutan_1805",MAIN,Great_Britain,1888,1949,Southern_Asia
+1806,"Trashigang, Bhutan","NA_Trashigang, Bhutan_1806",MAIN,Great_Britain,1888,1949,Southern_Asia
+1807,"Trongsa, Bhutan","NA_Trongsa, Bhutan_1807",MAIN,Great_Britain,1888,1949,Southern_Asia
+1808,"Tsirang, Bhutan","NA_Tsirang, Bhutan_1808",MAIN,Great_Britain,1888,1949,Southern_Asia
+1809,"Wangduephodrang, Bhutan","NA_Wangduephodrang, Bhutan_1809",MAIN,Great_Britain,1888,1949,Southern_Asia
+1810,"Yangtse, Bhutan","NA_Yangtse, Bhutan_1810",MAIN,Great_Britain,1888,1949,Southern_Asia
+1811,"Zhemgang, Bhutan","NA_Zhemgang, Bhutan_1811",MAIN,Great_Britain,1888,1949,Southern_Asia
+1815,Central Canada,CAN_Central Canada_1815,MAIN,Great_Britain,1737,1877,Northern_North_America
+1819,"Hudson Bay - Labrador, Canada","CAN_Hudson Bay - Labrador, Canada_1819",MAIN,Great_Britain,1737,1877,Northern_North_America
+1839,Bali,NA_Bali_1839,ISL,Portugal,1522,1596,Southeast_Asia
+1839,Bali,NA_Bali_1839,ISL,Netherlands,1596,1808,Southeast_Asia
+1839,Bali,NA_Bali_1839,ISL,Netherlands,1814,1949,Southeast_Asia
+1839,Bali,NA_Bali_1839,ISL,Great_Britain,1811,1814,Southeast_Asia
+1029,Netherlands,NLD_Netherlands_1029,MAIN,/,,,Europe
+162,,GBR_Great_Britain_162,ISL,/,,,Europe
+1361,Portugal_mainland,PRT_Portugal_mainland_1361,MAIN,/,,,Europe
+1360,Spain_mainland,ESP_Spain_mainland_1360,MAIN,/,,,Europe
